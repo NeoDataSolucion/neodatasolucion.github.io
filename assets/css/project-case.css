@@ -475,6 +475,10 @@
    DESAFÍO
 ===================================================== */
 
+.project-challenge-section .project-section-heading h2 {
+  color: #ffffff;
+}
+
 .project-challenge-list {
   display: grid;
   gap: 15px;
@@ -641,6 +645,10 @@
 /* =====================================================
    FUNCIONALIDADES
 ===================================================== */
+
+.project-features-section .section-heading h2 {
+  color: #0f172a;
+}
 
 .project-features-grid {
   display: grid;
