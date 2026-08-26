@@ -1342,3 +1342,13 @@
     border-radius: 22px;
   }
 }
+
+
+.project-results-section .project-results-heading h2 {
+  color: #ffffff;
+}
+
+.project-comparison-section .section-heading h2,
+.project-assets-section .section-heading h2 {
+  color: #0f172a;
+}
