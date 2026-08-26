@@ -711,6 +711,10 @@
    RESULTADOS
 ===================================================== */
 
+.project-results-section .project-results-heading h2 {
+  color: #ffffff;
+}
+
 .project-results-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -750,6 +754,10 @@
 /* =====================================================
    COMPARACIÓN
 ===================================================== */
+
+.project-comparison-section .section-heading h2 {
+  color: #0f172a;
+}
 
 .project-comparison-grid {
   display: grid;
@@ -895,6 +903,10 @@
 /* =====================================================
    ACTIVOS NEO
 ===================================================== */
+
+.project-assets-section .section-heading h2 {
+  color: #0f172a;
+}
 
 .project-neo-assets {
   display: grid;
