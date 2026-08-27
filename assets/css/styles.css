@@ -3029,3 +3029,14 @@ a {
         padding: 24px;
     }
 }
+
+.visual-icon svg {
+  width: 31px;
+  height: 31px;
+  display: block;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
