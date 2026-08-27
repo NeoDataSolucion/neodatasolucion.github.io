@@ -743,6 +743,17 @@ a {
   box-shadow: 0 12px 28px rgba(36, 53, 94, 0.16);
 }
 
+.asset-icon svg {
+  width: 29px;
+  height: 29px;
+  display: block;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.65;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 .asset-icon-purple {
   background: linear-gradient(135deg, #a947ff, #6736e8);
 }
