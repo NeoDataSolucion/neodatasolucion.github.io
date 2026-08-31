@@ -754,6 +754,18 @@ a {
   stroke-linejoin: round;
 }
 
+.neo-decorative-svg {
+  width: 1em;
+  height: 1em;
+  display: block;
+  flex: 0 0 auto;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.65;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 .asset-icon-purple {
   background: linear-gradient(135deg, #a947ff, #6736e8);
 }
